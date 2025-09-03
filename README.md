@@ -4,8 +4,6 @@
 I also love clean design and building websites as well as automating and creating tools to help with roles in Network Engineering/ Network Operations
 Here are some technical knowledge bytes I found interesting along my journey and hope to help any others on similar path.
 
-- 📫 You can reach me on https://gmbytes.com
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Vendor-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vendor-Juniper-informational?style=flat&logo=junipernetworks&logoColor=white&color=2bbc8a)
